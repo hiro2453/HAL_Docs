@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# ドキュメントへようこそ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+kaigyou
+aaaa
 
 ## Commands
 
@@ -9,7 +10,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## プロジェクト
 
     mkdocs.yml    # The configuration file.
     docs/
