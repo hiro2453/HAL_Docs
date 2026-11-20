@@ -1,0 +1,10 @@
+site_name: ドキュメントのタイトル
+
+theme:
+  name: material
+  color_mode : light
+  language: ja  # UIや検索機能を日本語化
+
+nav:
+  - ホーム: index.md
+  - アバウト: about.md
