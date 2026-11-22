@@ -1,5 +1,7 @@
+# Project information
 site_name: ハイアンドロー
 site_url: https://hiro2453.github.io/HAL_Docs/
+site_author: hiro2453
 
 copyright: (c) hiro2453
 
@@ -9,6 +11,7 @@ theme:
   font:
     text: IBM Plex Sans JP
     code: Google Sans Code
+  favicon: assets/favicon.png
   language: ja  # UIや検索機能を日本語化
 
 # Plugins
@@ -16,4 +19,5 @@ plugins:
   - search:
       lang: ja
 nav:
-  - ホーム: index.md
+  - はじめに: index.md
+  - 基本ルール: rule.md
