@@ -1,18 +1,5 @@
-# ドキュメントへようこそ
+# はじめに
 
-kaigyou
-aaaa
+* 本サイトはハイアンドローの使い方と操作方法を解説するサイトです
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## プロジェクト
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+左もしくは、左上の3本線から該当する項目へ飛んでください
